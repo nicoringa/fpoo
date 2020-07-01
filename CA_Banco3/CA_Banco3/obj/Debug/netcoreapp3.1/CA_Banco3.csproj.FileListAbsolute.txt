@@ -1,0 +1,13 @@
+C:\mr robot\CA_Banco3\CA_Banco3\bin\Debug\netcoreapp3.1\CA_Banco3.exe
+C:\mr robot\CA_Banco3\CA_Banco3\bin\Debug\netcoreapp3.1\CA_Banco3.deps.json
+C:\mr robot\CA_Banco3\CA_Banco3\bin\Debug\netcoreapp3.1\CA_Banco3.runtimeconfig.json
+C:\mr robot\CA_Banco3\CA_Banco3\bin\Debug\netcoreapp3.1\CA_Banco3.runtimeconfig.dev.json
+C:\mr robot\CA_Banco3\CA_Banco3\bin\Debug\netcoreapp3.1\CA_Banco3.dll
+C:\mr robot\CA_Banco3\CA_Banco3\bin\Debug\netcoreapp3.1\CA_Banco3.pdb
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.csprojAssemblyReference.cache
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.AssemblyInfoInputs.cache
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.AssemblyInfo.cs
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.csproj.CoreCompileInputs.cache
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.dll
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.pdb
+C:\mr robot\CA_Banco3\CA_Banco3\obj\Debug\netcoreapp3.1\CA_Banco3.genruntimeconfig.cache
